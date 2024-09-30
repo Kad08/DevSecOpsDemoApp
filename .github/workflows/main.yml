@@ -16,4 +16,4 @@ jobs:
         uses: actions/setup-dotnet@v4.0.1
 
       - name: Run dotnet app
-        run: dotnet app.cs
+        run: app.cs
