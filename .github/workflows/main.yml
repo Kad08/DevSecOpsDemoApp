@@ -16,4 +16,4 @@ jobs:
         uses: actions/setup-dotnet@v4.0.1
 
       - name: Run .Net Core app
-        run: .Net Core app.cs
+        run: .net app.cs
